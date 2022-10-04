@@ -1,0 +1,100 @@
+body{
+
+background-color:  #FFBED8;
+  text-align: center;
+  margin: 0;
+}
+
+h1, h2 , h3 {
+  color: #2B7A0B;
+  margin-top: 0;
+}
+
+div{
+
+}
+
+table{
+  margin: 0 auto;
+}
+
+.first{
+
+
+    padding: 50px;
+    margin: 0px;
+  position: relative;
+    background-color: #65C18C;
+
+
+
+}
+.second{
+
+
+    padding: 50px;
+
+    margin: 0px;
+
+  background-color: #C1F4C5;
+
+
+}
+
+.third{
+
+
+    padding: 50px;
+
+    margin: auto;
+
+  background-color: #FFBED8;
+
+}
+
+.fourth{
+
+
+  padding: 50px;
+
+  margin: 0px;
+
+background-color: #FF7BA9;
+
+}
+
+.fifth{
+  padding: 20px 0;
+  background-color: #CA4E79;
+}
+
+a{
+  color: #2B7A0B;
+  margin: 0 20px;
+
+}
+
+.cloud1{
+  position: absolute;
+  left:100px;
+  top: 130px;
+}
+
+.cloud2{
+  position: absolute;
+  right: 100px;
+    top: 130px;
+
+}
+
+.cloud4{
+  position: absolute;
+  right: 40px;
+  top: 350px;
+}
+
+.cloud5{
+  position: absolute;
+  left: 40px;
+  top: 350px;
+}
